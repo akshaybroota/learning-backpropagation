@@ -9,4 +9,4 @@ In Feb 2023, as the AI wave swept the world, I stumbled upon Andrej Karpathy's y
 
 # Credits
 
-All credit for micro-grad goes to Andrej Karpathy.
+All credits for micro-grad go to Andrej Karpathy.
